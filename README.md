@@ -1,4 +1,4 @@
-### Hi there 👋
+### Good to see you, this is developer Changyeon Seo 👋
 
 <!--
 **skfo763/skfo763** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
